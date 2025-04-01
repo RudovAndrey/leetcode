@@ -1,4 +1,4 @@
-package leetcode
+package Golang
 
 func twoSum(nums []int, target int) []int {
 	/*

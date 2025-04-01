@@ -1,4 +1,4 @@
-package leetcode
+package Golang
 
 func searchInsert(nums []int, target int) int {
 	/*
